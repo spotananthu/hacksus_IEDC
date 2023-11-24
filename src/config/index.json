@@ -1,0 +1,143 @@
+{
+	"hackathon": {
+		"name": "HACKSUS 3.0",
+		"logo": "/images/logo.png"
+	},
+	"navigation": [
+		{
+			"name": "Overview",
+			"href": "overview"
+		},
+		{
+			"name": "Problem Statements",
+			"href": "problems"
+		},
+
+		{
+			"name": "Tracks",
+			"href": "tracks"
+		},
+		{
+			"name": "Timeline",
+			"href": "timeline"
+		},
+		{
+			"name": "Sponsors",
+			"href": "sponsors"
+		},
+		{
+			"name": "Contact Us",
+			"href": "contact"
+		}
+	],
+	"callToAction": {
+		"text": "Contact Us",
+		"href": "#"
+	},
+	"mainHero": {
+		"title": "HackS'US 3.0",
+		"subtitle": "RSET IEDC",
+		"description": "HackS'US 3.0 is a team based hackathon where students come together to generate solutions for real world problems and develop them into innovative proposals.",
+		"img": "/images/logo.png",
+		"primaryAction": {
+			"text": "Register Now",
+			"href": "#"
+		},
+		"secondaryAction": {
+			"text": "Guidelines",
+			"href": ""
+		}
+	},
+	"problems": {
+		"title": "Problem Statements",
+		"items": [
+			{
+				"title": "Sewage Management Problem",
+				"description": "Sewage waste management facilities that already exist find it hard to cater to the needs of society and the growing population. Improper treatment of sewage leads to many prevalent health issues in the economy. Propose a system that could aid in effectively managing sewage waste and bring an end to the prevalent diseases."
+			},
+			{
+				"title": "Stray Dogs",
+				"description": "The increasing number of stray dogs in the country is posing a threat to the citizens of society. People are concerned about their safety and are on the lookout for a solution to put an end to this menace. Propose an innovative solution by means of technology that can solve this issue in a way that is ethical and moral."
+			},
+			{
+				"title": "Urban Agriculture",
+				"description": "People living in urban areas find it hard to get vegetables and fruits free from pesticides. If they are given the means to cultivate their own vegetables and fruits, the prevalent health problems will come to an end. Propose a system that can help citizens in urban areas to achieve this."
+			},
+			{
+				"title": "Waste Management",
+				"description": "The disposal of waste in urban areas is often hard as people don’t really have a place to discard their waste nor do they have the means to do so. Design a system that can help in urban waste management and the achievement of a more efficient system of waste segregation and treatment."
+			},
+			{
+				"title": "Clean Water Management",
+				"description": "Many deadly diseases arise from polluted and untreated drinking water. Treating water with chlorine doesn’t always seem to be a viable and apt option. Develop a mechanism to measure the quality of water and monitor clean water distribution from various reservoirs in multiple cities in order to provide clean and safe water to the citizens."
+			},
+			{
+				"title": "Potholes",
+				"description": "Potholes are a threat to every day road users which is a cause for increased traffic congestion and sometimes even loss of lives. Develop a system that can help in pothole detection which can be installed in vehicles and can act as a warning system to detect upcoming potholes and also alerts the relevant authorities about damaged roads from time to time. Innovative solutions to prevent the formation of potholes are also invited."
+			},
+			{
+				"title": "Open Innovation",
+				"description": "Projects that can reduce or eliminate the problems that come with urban development and to improve the standard of urban life."
+			}
+		]
+	},
+	"timeline": [
+		{
+			"time": "5 PM  Saturday",
+			"subheading": "The Origin",
+			"heading": "Start of HACK'SUS 3.0",
+			"text": "Welcome the start of the RSET IEDC Hackathon, HACKS'US 3.0!"
+		},
+		{
+			"time": "5 PM  Saturday",
+			"subheading": "The Origin",
+			"heading": "Start of HACK'SUS 3.0",
+			"text": "Welcome the start of the RSET IEDC Hackathon, HACKS'US 3.0!"
+		},
+		{
+			"time": "5 PM  Saturday",
+			"subheading": "The Origin",
+			"heading": "Start of HACK'SUS 3.0",
+			"text": "Welcome the start of the RSET IEDC Hackathon, HACKS'US 3.0!"
+		},
+		{
+			"time": "5 PM  Saturday",
+			"subheading": "The Origin",
+			"heading": "Start of HACK'SUS 3.0",
+			"text": "Welcome the start of the RSET IEDC Hackathon, HACKS'US 3.0!"
+		},
+		{
+			"time": "5 PM  Saturday",
+			"subheading": "The Origin",
+			"heading": "Start of HACK'SUS 3.0",
+			"text": "Welcome the start of the RSET IEDC Hackathon, HACKS'US 3.0!"
+		},
+		{
+			"time": "5 PM  Saturday",
+			"subheading": "The Origin",
+			"heading": "Start of HACK'SUS 3.0",
+			"text": "Welcome the start of the RSET IEDC Hackathon, HACKS'US 3.0!"
+		}
+	],
+	"contact": {
+		"people": [
+			{
+				"name": "Ananthakrishnan G",
+				"number": "+91 97782 48900",
+				"link": "https://wa.link/2uq4bp"
+			},
+			{
+				"name": "Person 2",
+				"number": "",
+				"link": ""
+			},
+			{
+				"name": "Person 3",
+				"number": "",
+				"link": ""
+			}
+		]
+	},
+	"email": "rsetiedc@rajagiritech.edu.in"
+	
+}
